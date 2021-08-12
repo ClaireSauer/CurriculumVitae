@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(232, 250, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+h1{
+    color: rgb(71, 100, 13);
+    font-size: xx-large;
+}
+h2{
+    color: rgb(78, 107, 19);
+    font-size: x-large;
+}
+h3{
+    color: rgb(83, 121, 8);
+    font-size: large;
+}
+h4{
+    color: rgb(123, 180, 9);
+    font-size: medium;
+}
+.p1{
+    color: black;
+    font-style: italic;
+    font-size: medium;
+}
+.p2{
+    color: black;
+    font-size: small;
+}
+.p3{
+    color: black;
+    font-size: small;
+    text-align: center;
+}
